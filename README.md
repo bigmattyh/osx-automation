@@ -24,7 +24,7 @@ Drop it in **~/Library/iTunes/Scripts**.
 
 Or, if you want to be fancy, keep this script in any folder you like, and then add a symbolic link to it in your iTunes scripts library. Open a terminal window, and type:
 
-> ln -s ~/Library/iTunes/Scripts/Clear\ Sort\ Entries.scpt *path_to/Clear\ Sort\ Entries.scpt
+> ln -s ~/Library/iTunes/Scripts/Clear\ Sort\ Entries.scpt *path_to/Clear\ Sort\ Entries.scpt*
 
 #### How do I edit it?
 
